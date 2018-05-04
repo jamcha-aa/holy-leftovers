@@ -1,0 +1,26 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* ホーリー・レフトオーバーズ
+
+  <br>
+
+  <br>
+  スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。
+
+  <br>
+  <br>
+
+  [[https://jamcha-aa.gitbook.io/about/][作品一覧]]
+
+  [[https://github.com/jamcha-aa/holy-leftovers][GitHubリポジトリ]]
+
+  <br>
+  <br>
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  This novel is licensed under the [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
+
+  ![[http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
