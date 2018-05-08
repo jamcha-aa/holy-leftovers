@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 009
+
+  寵姫ヘイガは離宮を支える大樹である。はるか昔，海辺の若芽に陛下が祝福を施した。それは波間をただよった果てに岩礁に留まり，やがて天を衝くまでに生長した。陛下はこれを喜び，暑さを避け，静養するための離宮をここに建てたのである。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  ![[http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
