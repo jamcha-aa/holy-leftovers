@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 014
+
+  一台の馬車が火の国に向かって進んでいる。その中には聖騎士ポッドたち四人の姿があった。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  ![[http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
