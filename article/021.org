@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 021
+
+  東の空には黒い雲がたれこめている。今の離宮には青い空が広がっているものの，やがて天気は崩れるだろう。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  ![[http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
