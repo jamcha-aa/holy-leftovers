@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 022
+
+  鋼のように硬い大樹の幹が，宮殿を風雨から守る。だがこれほどの嵐は離宮で暮らす人々にとっても初めてだった。門は固く閉ざされ，窓から外の様子を眺めると，まるで街全体が水没してしまったかのように，雨が幾筋もの滝を作りだしている。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  ![[http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
