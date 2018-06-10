@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 023
+
+  不意に雲が晴れた。そう思った瞬間。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  ![[http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
